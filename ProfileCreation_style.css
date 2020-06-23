@@ -1,0 +1,96 @@
+body{
+    background: url(Locha.jpg);
+    position: absolute;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+#Signup{
+    position: absolute;
+width: 794px;
+height: 78px;
+left: 250px;
+top: 140px;
+
+font-family: 'Federo', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 50px;
+text-align: center;
+
+color: #BF0505;
+}
+
+#sup{
+    position: absolute;
+width: 500px;
+height: 100px;
+left: 400px;
+top: 230px;
+
+background: #941C1C;
+background-blend-mode: overlay;
+border-radius: 80px;
+display:flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Federo', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 58px;
+text-align: center;
+
+color: #000000;
+}
+
+#or{
+    position: absolute;
+width: 256px;
+height: 62px;
+left: 525px;
+top: 300px;
+
+font-family: 'Mirza', cursive;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 55px;
+text-align: center;
+
+color: darkorchid
+
+}
+
+#supp{
+    position: absolute;
+width: 500px;
+height: 100px;
+left: 400px;
+top: 410px;
+background: #941C1C;
+background-blend-mode: overlay;
+border-radius: 80px;
+display:flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Federo', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 58px;
+text-align: center;
+
+color: #000000;
+
+}
+
+#sup:hover{
+    border: 20px;
+    background-color: deeppink;
+}
+#supp:hover{
+    border: 20px;
+    background-color: deeppink;
+}

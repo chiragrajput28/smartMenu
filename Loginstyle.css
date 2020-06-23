@@ -1,0 +1,100 @@
+body{
+    background: url(Login\ Page.jpg);
+    background-repeat: no-repeat;
+    background size:cover
+}
+
+#log{
+    position: absolute;
+width: 184px;
+height: 112px;
+left: 200px;
+top: 80px;
+
+font-family: 'Cormorant SC', serif;
+font-style: normal;
+font-weight: normal;
+font-size: 49px;
+line-height: 112px;
+text-align: center;
+
+color: #98BDD1;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#uid{
+    position: absolute;
+width: 411px;
+height: 90px;
+left: 200px;
+top: 270px;
+
+font-family: 'Federo', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 60px;
+line-height: 105px;
+text-align: center;
+
+color: rgba(255, 252, 254, 0.7);
+
+}
+
+#inuid{
+    position: absolute;
+    width: 411px;
+    height: 60px;
+    left: 550px;
+    top: 290px;
+    background: rgba(8, 72, 107, 0.84);
+    border-radius: 29px;
+}
+
+#pid{
+    position: absolute;
+    width: 411px;
+    height: 90px;
+    left: 200px;
+    top: 400px;
+    
+    font-family: 'Federo', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 60px;
+    line-height: 105px;
+    text-align: center;
+    
+    color: rgba(255, 252, 254, 0.7);
+}
+
+#inpw{
+    position: absolute;
+    width: 411px;
+    height: 60px;
+    left: 550px;
+    top: 420px;
+    background: rgba(8, 72, 107, 0.84);
+    border-radius: 29px;
+}
+
+#con{
+    position: absolute;
+width: 406px;
+height: 88px;
+left: 555px;
+top: 530px;
+
+background: #C4C4C4;
+mix-blend-mode: color-burn;
+border-radius: 360px;
+
+font-family: Ponnala;
+font-style: normal;
+font-weight: normal;
+font-size: 60px;
+line-height: 105px;
+text-align: center;
+
+color: #FEFFFE;
+}

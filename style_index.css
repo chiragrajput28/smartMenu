@@ -1,0 +1,103 @@
+#body{
+    background: url(high-tech-technology-geometric-connection-system-background-with-digital-data-abstract_29971-306.jpg);
+    background-repeat:no-repeat;
+    padding: 25px;
+    margin: 0px;
+    background-size: cover
+}
+
+#rectangle{
+    position: absolute;
+    width: 566px;
+    height: 136px;
+    left: 400px;
+    top: 120px;
+    
+    background: #0A0825;
+    background-blend-mode: luminosity;
+    border-radius: 70px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#text1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: normal;
+font-weight: normal;
+font-size: 70px;
+line-height: 87px;
+
+color: #46EA0D;
+}
+
+#text2{
+    position: absolute;
+width: 900px;
+height: 63px;
+left: 260px;
+top: 208px;
+
+font-family: Saira;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 76px;
+
+color: rgba(239, 231, 231, 0.63);
+}
+
+button{
+    position: absolute;
+width: 810px;
+height: 72px;
+left: 290px;
+top: 400px;
+
+background: #020712;
+background-blend-mode: hue;
+border: 3px solid #000000;
+box-sizing: border-box;
+border-radius: 100px;
+
+font-family: 'Oxanium', cursive;
+color: rgba(200,230,231,0.63);
+font-style: normal;
+font-weight: 300;
+font-size: 47px;
+line-height: 53px;
+text-align: center;
+}
+
+img{
+    position: absolute;
+width: 92px;
+height: 80px;
+left: 23px;
+top: 25px;
+
+}
+
+button:hover{
+    border: 10px ;
+    background-color: #4e0707;
+    
+}
+
+#corner{
+    position: absolute;
+width: 651px;
+height: 57px;
+right:5px;
+bottom: 5px;
+
+font-family: 'Gruppo', cursive;
+font-style: normal;
+font-weight: 300;
+font-size: 40px;
+line-height: 45px;
+text-align: center;
+
+color: rgba(74, 247, 13, 0.63);
+
+}
