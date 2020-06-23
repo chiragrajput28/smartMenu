@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <link rel="stylesheet" href="HomeStyle.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@700&family=Federo&family=Gruppo&family=Jost&family=Mirza:wght@700&family=Oxanium:wght@500&family=Philosopher&family=Spirax&family=Ubuntu&family=Voltaire&display=swap"
+        rel="stylesheet">
+    <script>
+        function Customer() {
+            window.open("choose.html");
+        }
+        function Edit() {
+            window.open("Edit.html");
+        }
+        function Logout() {
+            window.open("index.html");
+        }
+        function Circ() {
+            window.open("Profile Setup.html")
+        }
+    </script>
+</head>
+
+<body>
+    <div id="h">
+        <p id="hh">Home</p>
+    </div>
+
+    <button id="cust" onclick="Customer()">View Customer Order</button>
+    <button id="edit" onclick="Edit()">Edit Menu Card</button>
+    <button id="lout" onclick="Logout()">Log Out</button>
+
+    <div id="circle" onclick="Circ()">
+        <img src="Profile Logo.jpg" style="width: 100px;"><br>
+        <p id="Pro" style="width: 150px ;">Edit your Profile</p>
+    </div>
+</body>
+
+</html>

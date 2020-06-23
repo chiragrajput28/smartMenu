@@ -1,0 +1,84 @@
+body{
+    background: url("Editing\ Page.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#curve{
+    position: absolute;
+width: 450px;
+height: 86px;
+left: 460px;
+top: 0px;
+
+background: #060606;
+border-radius: 0px 0px 90px 90px;
+display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#Header{
+    font-family: 'Spirax', cursive;
+font-style: normal;
+font-weight: normal;
+font-size: 34px;
+line-height: 71px;
+text-align: center;
+
+color: #11FF62;
+
+}
+
+#diff{
+    
+position: absolute;
+width: 388px;
+height: 382px;
+left: 220px;
+top: 190px;
+
+background: linear-gradient(180deg, rgba(251, 255, 55, 0.9) 62.5%, rgba(251, 255, 55, 0) 100%);
+border-radius: 360px;
+
+font-family: 'Oxanium', cursive;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 58px;
+text-align: center;
+
+color: #0500FE;
+
+
+}
+
+#Menu{
+    position: absolute;
+width: 388px;
+height: 382px;
+left:760px;
+top: 190px;
+background: linear-gradient(180deg, rgba(251, 255, 55, 0.9) 62.5%, rgba(251, 255, 55, 0) 100%);
+border-radius: 360px;
+
+font-family: 'Oxanium', cursive;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 58px;
+text-align: center;
+
+color: #0500FE;
+
+
+
+}
+
+#diff:hover{
+    background-color: darkblue;
+}
+
+#Menu:hover{
+    background-color: maroon;
+}

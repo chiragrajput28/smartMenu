@@ -1,0 +1,63 @@
+body{
+    background:url("ChooseTemp.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    position: absolute;
+width: 1100px;
+height: 158px;
+left: 170px;
+top: 100px;
+
+font-family: 'Carrois Gothic SC', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 50px;
+
+color: #00ff22;
+
+}
+
+#b1{
+    position: absolute;
+width: 400px;
+height: 100px;
+left: 430px;
+top: 310px;
+
+background: rgba(260, 199, 280, 0.99);
+
+border: 6px solid #2b00ec;
+box-sizing: border-box;
+
+font-family: 'Voltaire', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 55px;
+text-align: center;
+
+
+}
+
+#b1:hover{
+    font-size: 300%;
+    width: 500px;
+    left:370px;
+    border-radius: 90px;
+    background: lightseagreen
+}
+
+#b2{
+    width: 100px;
+    font-family: 'Voltaire', sans-serif;
+    background-color: chocolate;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+color:blue;
+line-height: 55px;
+text-align: center;
+}
